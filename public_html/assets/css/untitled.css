@@ -1,0 +1,8 @@
+#mainNav.navbar-light.navbar-expand-md.navbar.navbar-expand-lg.fixed-top.navbar-shrink .nav-link.active {
+  color: #fff;
+}
+
+#mainNav.navbar-light.navbar-expand-md.navbar.navbar-expand-lg.fixed-top .nav-link.active {
+  color: #800000;
+}
+.space { margin:0; padding:0; height:50px; }
